@@ -1,0 +1,2 @@
+tag @s add immune
+tellraw @s {"rawtext":[{"text":"§7Confusing..."}]}
